@@ -1,11 +1,11 @@
-👐 AWAAJ – Sign Language Learning App
+👐***AWAAJ – Sign Language Learning App***
 
 A modern, intuitive and accessible platform to learn Indian Sign Language (ISL).
 
 AWAAJ is an Android application built using Kotlin and Jetpack Compose, designed to make learning ISL simple, engaging, and visually interactive.
 The app provides a clean UI, smooth navigation, and an easy-to-understand learning flow so anyone can start learning sign language at their own pace.
 
-✨ App Overview
+✨ ***App Overview***
 
 AWAAJ focuses on providing:
 
@@ -24,7 +24,10 @@ Uses Compose Navigation to switch between learning screens, dictionary, quiz, an
 🎨 Visually Rich UI
 Custom animations, themed design, and an aesthetic layout to make learning more enjoyable
 
-📸 Screenshots (Preview)
+📸 ***Screenshots (Preview)***
+
+<img width="1675" height="846" alt="image" src="https://github.com/user-attachments/assets/229813e5-374f-4eb1-9a05-67943c8fcce2" />
+
 
 🛠️ Tech Stack
 
@@ -38,14 +41,15 @@ Material 3 Design
 
 Android Studio (Giraffe/Latest)
 
-🚀 Installation & Setup
+🚀 ***Installation & Setup***
 
 Follow these steps to run AWAAJ on your device/emulator:
 
-1. Clone the Repository
+1. ***Clone the Repository***
 git clone https://github.com/khorwalharshita/Awaaj.git
 
-2. Open the Project in Android Studio
+
+3. ***Open the Project in Android Studio***
 
 Open Android Studio
 
@@ -55,10 +59,43 @@ Choose the Awaaj project folder
 
 Allow Gradle to sync completely
 
-3. Run the App
 
-Connect a real device or start an emulator
+3.1📱***Running the App on an Emulator***
 
-Click Run ▶ in Android Studio
+In Android Studio, open AVD Manager
 
-The app will install and launch automatically
+(Tools → Device Manager)
+
+Create a new virtual device
+
+Choose any Pixel device
+
+Select a system image (Android 13 or above recommended)
+
+Start the emulator by clicking Play ▶
+
+After the emulator is running, click Run ▶ in Android Studio
+
+The app will automatically build, install, and launch on the emulator.
+
+
+3.2📲 ***Installing the App on Your Mobile Phone (Recommended)***
+
+Connect your Android phone using USB
+
+Enable Developer Options
+
+Settings → About Phone → Tap Build Number 7 times
+
+Enable USB Debugging
+
+Settings → Developer Options → USB Debugging → ON
+
+In Android Studio, select your mobile device as the run target
+
+Click Run ▶
+
+The app will install directly on your phone
+
+You can now use AWAAJ with full user experience and camera features!
+
