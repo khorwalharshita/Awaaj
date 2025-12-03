@@ -29,17 +29,17 @@ Custom animations, themed design, and an aesthetic layout to make learning more 
 <img width="1675" height="846" alt="image" src="https://github.com/user-attachments/assets/229813e5-374f-4eb1-9a05-67943c8fcce2" />
 
 
-🛠️ Tech Stack
+🛠️ ***Tech Stack***
 
-Kotlin
+    Kotlin
 
-Jetpack Compose
+    Jetpack Compose
 
-Compose Navigation
+    Compose Navigation
 
-Material 3 Design
+    Material 3 Design
 
-Android Studio (Giraffe/Latest)
+    Android Studio (Giraffe/Latest)
 
 🚀 ***Installation & Setup***
 
@@ -60,6 +60,7 @@ Choose the Awaaj project folder
 Allow Gradle to sync completely
 
 
+   
 3.1📱***Running the App on an Emulator***
 
 In Android Studio, open AVD Manager
@@ -77,6 +78,7 @@ Start the emulator by clicking Play ▶
 After the emulator is running, click Run ▶ in Android Studio
 
 The app will automatically build, install, and launch on the emulator.
+
 
 
 3.2📲 ***Installing the App on Your Mobile Phone (Recommended)***
