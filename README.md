@@ -1,13 +1,13 @@
 👐***AWAAJ – Sign Language Learning App***
-
+<p align="center">
 A modern, intuitive and accessible platform to learn Indian Sign Language (ISL).
-
+<p align="center">
 AWAAJ is an Android application built using Kotlin and Jetpack Compose, designed to make learning ISL simple, engaging, and visually interactive.
 The app provides a clean UI, smooth navigation, and an easy-to-understand learning flow so anyone can start learning sign language at their own pace.
 
 ✨ ***App Overview***
 
-AWAAJ focuses on providing:
+## AWAAJ focuses on providing:
 
 📘 ISL Learning Modules
 Structured lessons to help beginners understand and learn essential signs.
@@ -31,15 +31,15 @@ Custom animations, themed design, and an aesthetic layout to make learning more 
 
 🛠️ ***Tech Stack***
 
-    Kotlin
+* Kotlin
 
-    Jetpack Compose
+* Jetpack Compose
 
-    Compose Navigation
+ * Compose Navigation
 
-    Material 3 Design
+ *  Material 3 Design
 
-    Android Studio (Giraffe/Latest)
+ * Android Studio (Giraffe/Latest)
 
 🚀 ***Installation & Setup***
 
