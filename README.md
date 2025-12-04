@@ -79,7 +79,7 @@ After the emulator is running, click Run ▶ in Android Studio
 
 The app will automatically build, install, and launch on the emulator.
 
-
+<p>
 
 3.2📲 ***Installing the App on Your Mobile Phone (Recommended)***
 
