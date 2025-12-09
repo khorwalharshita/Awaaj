@@ -57,9 +57,9 @@ private val AppTypography = Typography()
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // Load your YOLOv model and labels
-        ModelHelper.loadModel(assets, "yolov8_sign_language_model_float32.tflite")  // Use your actual model file name
-        ModelHelper.loadLabels(assets, "label.txt")             // Use your actual labels file name
+        // Load YOLOv model and labels
+        ModelHelper.loadModel(assets, "yolov8_sign_language_model_float32.tflite") 
+        ModelHelper.loadLabels(assets, "label.txt")             
 
         setContent {
             val appThemeState = rememberSaveable { mutableStateOf(AppTheme.LIGHT) }
