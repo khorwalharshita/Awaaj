@@ -1,4 +1,4 @@
-package com.example.signlanguageapp
+ package com.example.signlanguageapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -191,9 +191,6 @@ fun SplashScreen(navController: NavController) {
         }
     }
 }
-
-
-
 
 
 
