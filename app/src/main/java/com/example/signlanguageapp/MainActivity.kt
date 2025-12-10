@@ -102,7 +102,6 @@ fun MyApp(appTheme: AppTheme, onToggleTheme: () -> Unit) {
 }
 
 
-
 @Composable
 fun AnimatedSectionButton(
     text: String,
