@@ -192,6 +192,3 @@ fun SplashScreen(navController: NavController) {
     }
 }
 
-
-
-
