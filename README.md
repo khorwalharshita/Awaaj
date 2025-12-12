@@ -86,11 +86,9 @@ The app will automatically build, install, and launch on the emulator.
 Connect your Android phone using USB
 
 Enable Developer Options
-
 Settings → About Phone → Tap Build Number 7 times
 
 Enable USB Debugging
-
 Settings → Developer Options → USB Debugging → ON
 
 In Android Studio, select your mobile device as the run target
