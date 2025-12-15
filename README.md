@@ -98,4 +98,3 @@ Click Run ▶
 The app will install directly on your phone
 
 You can now use AWAAJ with full user experience and camera features!
-
